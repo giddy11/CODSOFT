@@ -6,6 +6,10 @@ I got the opportunity to intern as a `Python` developer and with **CodSoft** and
 There were 5 projects in all and I was supposed to get at least 3 of them done within the 4 weeks of internship
 
 
+**N/B: PLEASE THE CODE I IMPLEMENTED DOESNT HANDLE EXCEPTIONS. TRY TO ENTER VALID INPUTS FOR NOW. HOPING TO EXTEND THE FUNCTIONALITIES AS I PROGRESS IN MY PYTHON PRACTICE**
+**WHEN I LEARN HOW TO HANDLE EXCEPTIONS AND ALSO OPTIMISE MY CODE**
+
+
 ***The projects were as follows:***
 
 
@@ -57,7 +61,7 @@ Python, allowing users to specify the length and complexity of the password.
 **User Interface:** Design a user-friendly interface with clear instructions and feedback.
 
 
-## Task 5: **Contact Book**
+## Task 5: [Contact Book](https://github.com/giddy11/CODSOFT/tree/master/Task_5)
 **Contact Information:** Store name, phone number, email, and address for each contact.
 
 
